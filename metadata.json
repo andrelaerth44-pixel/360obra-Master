@@ -1,0 +1,6 @@
+{
+  "name": "OBRA360",
+  "description": "Plataforma completa de gestão de obras, calculadoras de construção e comunidade profissional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
